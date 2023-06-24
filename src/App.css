@@ -1,0 +1,14 @@
+#sidebar{
+  /* background-color: red; */
+  height: 100vh;
+  width: 20vh;
+  /* text-align: center; */
+  border-right: 2px solid black;
+
+}
+#sidebarLi{
+  list-style: none;
+  margin-top: 100px;
+  text-decoration: none;
+}
+
